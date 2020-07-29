@@ -1,3 +1,4 @@
 require 'fizzbuzz'
-def fizzbuzz
+def fizzbuzz(number)
+    'fizz'
 end
